@@ -15,6 +15,5 @@ spring:
   profiles: test
   application:
     name: test-config
-
 server:
   port: 8203
